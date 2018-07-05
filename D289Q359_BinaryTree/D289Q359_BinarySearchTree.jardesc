@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Nimisha/Documents/D289Q359_BinarySearchTree.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/D289Q359_BinarySearchTree/D289Q359_BinarySearchTree.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=D289Q359_BinarySearchTree/src&lt;com.D289Q359.BinaryTree{D289Q359_BinaryTree.java[D289Q359_BinaryTree" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/D289Q359_BinarySearchTree/.classpath"/>
+        <file path="/D289Q359_BinarySearchTree/.project"/>
+        <file path="/D289Q359_BinarySearchTree/.DS_Store"/>
+        <javaElement handleIdentifier="=D289Q359_BinarySearchTree/src"/>
+        <file path="/D289Q359_BinarySearchTree/D289Q359_BinarySearchTree.jardesc"/>
+    </selectedElements>
+</jardesc>
